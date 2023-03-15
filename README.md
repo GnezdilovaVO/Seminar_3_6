@@ -21,3 +21,9 @@ https://github.com/GnezdilovaVO/Seminar_3_6.git
 Написать программу сложения двух матриц
 
 [КОД](Example_02/Program.cs)
+
+- Example_03
+
+ Написать программу, упорядочивания по убыванию элементы каждой строки двумерной массива.
+
+ [КОД](Example_03/Program.cs)
